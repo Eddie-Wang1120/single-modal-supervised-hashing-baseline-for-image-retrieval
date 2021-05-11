@@ -2,10 +2,10 @@ SSHBIR Toolkit
 ==============
 
 ## What is SSHBIR?
-SSHBIR is a baseline frame toolkit including 10 different single-model supervised hashing methods.The toolkit can draw a mAP curves and Time curves for each methods in diverse bit number, which can offer help to all learners for hashing image retrieval when you want to get to know the detail codes and differences for single-model supervised hashing methods.I also made a summary for recent single-model supervised hashing methods, you can check it in my other project [[Single-Modal-Supervised-Hashing-Methods-Papers-Collection]](https://github.com/Eddie-Wang1120/Single-Modal-Supervised-Hashing-Methods-Papers-Collection).
+SSHBIR is a baseline frame toolkit including 10 different single-model supervised hashing methods.The toolkit can draw a mAP curves and Time curves for each methods in diverse bit number, which can offer help to all learners for hashing image retrieval when you want to get to know the detail codes and differences for single-model supervised hashing methods.I also made a summary for recent single-model supervised hashing methods, you can check it in my other project [Single-Modal-Supervised-Hashing-Methods-Papers-Collection](https://github.com/Eddie-Wang1120/Single-Modal-Supervised-Hashing-Methods-Papers-Collection).
 
 ## Why build SSHBIR?
-When I begin to learn about hashing methods for image retrieval, I was greatly helped by the [[HABIR Toolkit]](https://github.com/willard-yuan/hashing-baseline-for-image-retrieval), which includes lots of unsupervised hashing methods. However, after my serach, I found out that basically there is rarely a ready-made frame for all the supervised hashing methods. Therefore, the SSHBIR toolkit was built. Hopes this toolkit can give a hand and welcome for all the suggestion.
+When I begin to learn about hashing methods for image retrieval, I was greatly helped by the [HABIR Toolkit](https://github.com/willard-yuan/hashing-baseline-for-image-retrieval), which includes lots of unsupervised hashing methods. However, after my serach, I found out that basically there is rarely a ready-made frame for all the supervised hashing methods. Therefore, the SSHBIR toolkit was built. Hopes this toolkit can give a hand and welcome for all the suggestion.
 
 ## How to use SSHBIR?
 **Database**<br>  
