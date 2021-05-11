@@ -15,6 +15,10 @@ The SSHBIR uses the processed CIFAR10-Gist512 as database, which had already spl
 * [[original Cifar-10]](https://www.cs.toronto.edu/~kriz/cifar.html)
 * [[processed Cifar-10 code:3smq **used in this toolkit**]](https://pan.baidu.com/s/1fZQihwP4TDgrZThndH__Pw)
 
+When you already download the processed CIFAR-10.mat, put it in the SSHBIR Toolkit directory like the picture example.<br>
+
+![image](https://github.com/Eddie-Wang1120/single-modal-supervised-hashing-baseline-for-image-retrieval/blob/main/img/pos.png)
+
 **Run demo**<br>  
 `main_demo.m` : The main script to evaluate the performance.If changing the hashing methods and the bit number in this demo, you can get corresponding mAP curves and Time curves.<br>
 
