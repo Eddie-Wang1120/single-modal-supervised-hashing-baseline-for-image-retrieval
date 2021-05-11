@@ -10,7 +10,10 @@ When I begin to learn about hashing methods for image retrieval, I was greatly h
 ## How to use SSHBIR?
 **Database**<br>  
 
-The SSHBIR uses CIFAR10-Gist512 as database, and it's already in the toolkit.<br> 
+The SSHBIR uses the processed CIFAR10-Gist512 as database, which had already split into trainset and testset, and I put the link of both the original one and the processed one below for better understanding.<br>
+
+* [[original Cifar-10]](https://www.cs.toronto.edu/~kriz/cifar.html)
+* [[processed Cifar-10 code:3smq **used in this toolkit**]](https://pan.baidu.com/s/1fZQihwP4TDgrZThndH__Pw)
 
 **Run demo**<br>  
 `main_demo.m` : The main script to evaluate the performance.If changing the hashing methods and the bit number in this demo, you can get corresponding mAP curves and Time curves.<br>
