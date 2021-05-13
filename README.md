@@ -37,6 +37,11 @@ When you already download the processed CIFAR-10.mat, put it in the SSHBIR Toolk
 * **SSLH**: Xingbo Liu, Xiushan Nie, Quan Zhou, Xiaoming Xi, Lei Zhu, Yilong Yin."Supervised Short-Length Hashing" (2019)International Joint Conference on Artificial Intelligence
 * **More single-model supervised hashing methods you can check it in my other project [[Single-Modal-Supervised-Hashing-Methods-Papers-Collection]](https://github.com/Eddie-Wang1120/Single-Modal-Supervised-Hashing-Methods-Papers-Collection)**
 
+## Results
+
+* V1.0 results
+
+
 ## Environment
 * Matlab
 
