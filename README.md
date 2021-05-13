@@ -55,3 +55,6 @@ The Time curves including 10 different hashing methods.
 ## Version Update
 * 1.0 5/11/2020 basic version
 * 1.1 5/13/2020 upload the vital files in SDH method, integrate some repeat files.
+
+## Special Thanks
+I wish to acknowledge the idea and helps offered by [HABIR Toolkit](https://github.com/willard-yuan/hashing-baseline-for-image-retrieval), there's lot I learned from that project, thanks again.
