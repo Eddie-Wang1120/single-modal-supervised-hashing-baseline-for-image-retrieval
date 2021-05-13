@@ -39,11 +39,19 @@ When you already download the processed CIFAR-10.mat, put it in the SSHBIR Toolk
 
 ## Results
 
-* V1.0 results
+* V1.X results
 
+The mAP curves including 10 different hashing methods.
+
+![image](https://github.com/Eddie-Wang1120/single-modal-supervised-hashing-baseline-for-image-retrieval/blob/main/img/mAP.png)
+
+The Time curves including 10 different hashing methods.
+
+![image](https://github.com/Eddie-Wang1120/single-modal-supervised-hashing-baseline-for-image-retrieval/blob/main/img/Time.png)
 
 ## Environment
 * Matlab
 
 ## Version Update
 * 1.0 5/11/2020 basic version
+* 1.1 5/13/2020 upload the vital files in SDH method, integrate some repeat files.
