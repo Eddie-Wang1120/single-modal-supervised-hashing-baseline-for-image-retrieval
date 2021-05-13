@@ -1,6 +1,8 @@
 SSHBIR Toolkit
 ==============
 
+[![DOI](https://zenodo.org/badge/366065330.svg)](https://zenodo.org/badge/latestdoi/366065330)
+
 ## What is SSHBIR?
 SSHBIR is a baseline frame toolkit including 10 different single-model supervised hashing methods.The toolkit can draw a mAP curves and Time curves for each methods in diverse bit number, which can offer help to all learners for hashing image retrieval when you want to get to know the detail codes and differences for single-model supervised hashing methods.I also made a summary for recent single-model supervised hashing methods, you can check it in my other project [Single-Modal-Supervised-Hashing-Methods-Papers-Collection](https://github.com/Eddie-Wang1120/Single-Modal-Supervised-Hashing-Methods-Papers-Collection).
 
